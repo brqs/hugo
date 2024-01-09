@@ -1,0 +1,125 @@
+{
+    "friend": [
+        {
+            "name": "水八口记",
+            "url": "https://blog.shuiba.co",
+            "md5": "ec9435af3f1cd6d7fca626d649928e7a" ,
+            "des": "" 
+        },{
+            "name": "FF",
+            "url": "https://foolishfox.cn/",
+            "md5": "808b2d2bcf421a7f3d99310c0dc3271a",
+            "des": ""
+        },{
+            "name": "SKYue",
+            "url": "https://www.skyue.com/",
+            "md5": "c3fb4bb4d5101284ddd672fb722cdd7d",
+            "des": ""
+        },{
+            "name": "DIYgod",
+            "url": "https://diygod.me/",
+            "src": "https://fastly.jsdelivr.net/gh/DIYgod/hexo-theme-sagiri/source/images/DIYgod-src2.webp",
+            "des": ""
+        },{
+            "name": "小冰博客",
+            "url": "https://zfe.space/",
+            "src": "https://zfe.space/images/headimage.png",
+            "des": ""
+        },{
+            "name": "Akilarの糖果屋",
+            "url": "https://akilar.top/",
+            "src": "https://favicon.yandex.net/favicon/v2/akilar.top?size=32",
+            "des": ""
+        },{
+            "name": "Heo",
+            "url": "https://blog.zhheo.com/",
+            "src": "https://blog.zhheo.com/img/src.png",
+            "des": ""
+        },{
+            "name": "贰猹の小窝",
+            "url": "https://noionion.top/",
+            "src": "https://noionion-picture-bed.oss-cn-hangzhou.aliyuncs.com/img/head.jpg",
+            "des": "用这生命中的每一秒，给自己一个不后悔的未来"
+        },{
+            "name": "小孙同学",
+            "url": "https://blog.sunguoqi.com/",
+            "md5": "f0e98910be9a5bcb7b4c987e03fd75e4",
+            "des": ""
+        },{
+            "name": "ChenYFanのSite",
+            "url": "https://blog.cyfan.top/",
+            "md5": "15359b6f2fe293366156959c8ab9476f",
+            "des": ""
+        },{
+            "name": "小N同学",
+            "url": "https://www.nesxc.com/",
+            "md5": "878b645b8e55fe32731d9a2b2cdd2cd1",
+            "des": "青石落晚巷 故人未还乡"
+        },{
+            "name": "喂马劈柴",
+            "url": "https://blog.shaoxiao.net/",
+            "md5": "816e80f096e1140396ac9abd0368907c",
+            "des": ""
+        },{
+            "name": "老张",
+            "url": "https://laozhang.org/",
+            "md5": "679666f7bd1af3e55f0e51dd70ed161c",
+            "des": ""
+        },{
+            "name": "Conge",
+            "url": "https://conge.livingwithfcs.org/",
+            "md5": "e0d020a4f4bbda7f9366efa2581d34e7",
+            "des": ""
+        },{
+            "name": "雅余",
+            "url": "https://yayu.net/",
+            "md5": "f28cbc679ae7f0e5ecfd4f218d92a83b",
+            "des": ""
+        },{
+            "name": "东评西就",
+            "url": "https://dongjunke.cn",
+            "md5": "42542189ddb33064599dc88a5149bea7",
+            "des": ""
+        },{
+            "name": "东评西就",
+            "url": "https://dongjunke.cn",
+            "md5": "42542189ddb33064599dc88a5149bea7",
+            "des": ""
+        },{"src": "https://cbhua.github.io/blog/images/favicon.ico",
+        "des": "放进时光蛋里。",
+        "url": "https://cbhua.github.io/blog/",
+        "name": "TIMEGG",
+        "md5": "1729a0fccaa804f3cec7115dabf059cd"},
+       {"src": "",
+        "des": "非科学のカッパ的博客",
+        "url": "https://bkryofu.xyz",
+        "name": "冻符「Minus-K」",
+        "md5": "50fb6781d3d1f0a84c054636c5d34f25"},
+       {"src": "https://img.2broear.com/2broear.png",
+        "des": "兴趣指引方向，会玩才会学",
+        "url": "https://blog.2broear.com",
+        "name": "2BROEAR",
+        "md5": "7ab135505c5b8aaa003f84ac5c0a430d"},
+       {"src": "",
+        "des": "做自己，不隨波逐流，不妥協",
+        "url": "http://d-d.design",
+        "name": "孤斗 [gū dóu]",
+        "md5": "1f0e571819bd89deff2016127a4404d0"},
+       {"src": "",
+        "des": "前端偏甜工程师，午夜吉他恶魔",
+        "url": "https://mgear-blogs.obs-website.cn-east-3.myhuaweicloud.com/",
+        "name": "Lionad-Guirotar",
+        "md5": "71b0909993ba2f3d4a667e91b5057cc9"},
+       {"src": "",
+        "des": "不一定哪天就斜杠到哪里去了",
+        "url": "http://www.telihai.com/",
+        "name": "斜杠青年",
+        "md5": "d742a52cf1b4473ea1aad6fcb252df66"},
+       {"src": "https://amoshk.top/img/avatar.png",
+        "des": "生活碎片",
+        "url": "https://amoshk.top",
+        "name": "豆豆",
+        "md5": "dc59cfcf2b5ff508bcd032a82aee6174"}
+        
+    ]
+}
